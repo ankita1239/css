@@ -1,0 +1,91 @@
+h1{ 
+	font-style: lato;
+	font-size: 20px;
+	border-style:solid ;
+	border-color:#BA68C8;
+	background-color:#BA68C8;
+	border-width:20px 5px;
+	display:block;
+
+
+}
+aside{
+	width: 20%;
+	margin-top: -14px;
+	padding-right:20px;
+	margin-right: 20px;
+	float: left;
+	font-style: arial;
+	background-color: lightgrey;
+}
+	
+aside h2{
+	height: 460px;
+	position: relative;
+	 top:225px;
+
+
+}
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	}
+ .one 
+{
+	margin-top: 0 auto;
+	width: 55%;
+height: 200px;
+	background-color: #FFF176;
+	margin-left: 90px;
+	margin-right: 90px;
+
+
+}
+
+.two
+{
+	margin-top: -200px;
+	width: 55%;
+height: 200px;
+	background-color: #FFF176;
+	margin-left: 600px;
+	margin-right: 100px;
+	
+}
+
+.three
+{
+	margin-top: 90px;
+	width: 33%;
+height: 185px;
+	background-color: #FFF176;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+.four
+{
+	margin-top: -185px;
+	width: 33%;
+height: 185px;
+	background-color: #FFF176;
+	margin-left: 450px;
+	margin-right:90px;
+}
+.five
+{
+	margin-top: -185px;
+	width: 33%;
+height: 185px;
+	background-color:#FFF176;
+	margin-left: 800px;
+	margin-right:90px;
+}
+h3{
+	font-style: lato;
+	font-size: 20px;
+	border-style: solid;
+	border-color:#BA68C8;
+	background-color:#BA68C8;
+	border-width:20px 5px;
+	margin-top:10px;
+}
